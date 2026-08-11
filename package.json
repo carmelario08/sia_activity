@@ -1,0 +1,24 @@
+{
+  "name": "rio.sia",
+  "version": "1.0.0",
+  "description": "Classroom Ativities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/carmelario08/sia_activity#readme",
+  "bugs": {
+    "url": "https://github.com/carmelario08/sia_activity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmelario08/sia_activity.git"
+  },
+  "author": "Rio,Carmela",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
